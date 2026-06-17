@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/<your-username>/<repo-name>/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/hrithikuday/hrithikuday/output/snake.svg" />
 
 </div>
 
