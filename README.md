@@ -1,7 +1,7 @@
 ![Xeon's card name](https://hrithikcardview.vercel.app/api?name=𝐇ʀɪᴛʜɪᴋ%20𝐔ᴅᴀʏ&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://i.ibb.co/yFt1fLzg/temp.jpg&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=xeonkl10&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
 <body>
   <center>
-<h1 align="center"> - 乂𝛆𝛐𝛈𝚳𝛐𝛛𝐳 - </h1>
+<h1 align="center"> - HRITHIK UDAY - </h1>
 <br>
 <div align="center">
 
